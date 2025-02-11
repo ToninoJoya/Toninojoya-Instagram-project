@@ -1,0 +1,95 @@
+body{
+    background-color: lightgrey;
+    margin: 0;
+}
+header{
+    background: white;
+}
+header h1{
+    margin: 0;
+}
+div.myPost{
+    background: white;
+    margin-top: 50px;
+}
+div.myPost img{
+    width: 100%;
+    height: auto;
+}
+h2, span{
+    display: inline;
+    padding: 2.5%;
+}
+h2{
+    margin: 0%;
+    float: left;
+}
+span{
+    margin: auto;
+    float: right;
+    color: rgb(204, 204, 204);
+}
+p{
+    padding: 2.5%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.contenido{
+    width: 600px;
+    margin: auto;
+
+
+}
+div.mySecondPost{
+    background: white;
+    margin-top: 50px;
+}
+div.mySecondPost img{
+    width: 100%;
+    height: auto;
+}
+h3, span{
+    display: inline;
+    padding: 2.5%;
+}
+h3{
+    margin: 0%;
+    float: left;
+}
+div.myTercerPost{
+    background: white;
+    margin-top: 50px;
+}
+div.myTercerPost img{
+    width: 100%;
+    height: auto;
+}
+h4, span{
+    display: inline;
+    padding: 2.5%;
+}
+h4{
+    margin: 0%;
+    float: left;
+}
+
+div.myCuartoPost{
+    background: white;
+    margin-top: 50px;
+}
+div.myCuartoPost img{
+    width: 100%;
+    height: auto;
+}
+h5, span{
+    display: inline;
+    padding: 2.5%;
+}
+h5{
+    margin: 0%;
+    float: left;
+}
+h2, h3, h4, h5{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
